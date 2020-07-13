@@ -1,0 +1,117 @@
+@CHARSET "ISO-8859-1";
+
+
+h1{
+	color: red;
+	padding-left: 250px;
+}	
+
+p{
+	color: blue;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+}
+
+.nesto_o_restoranima{
+	color: purple;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+}
+
+.specijal_u_paragrafu{
+	color: red;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+}
+
+#main_div{
+	width: 500px;
+	height: 300px;
+	border: 1px solid green;
+	margin-left: 200px;
+	margin-top: 50px;
+	padding: 30px;
+	background-color: #e1fcff;
+}
+
+.moj_omiljeni_div{
+	width: 500px;
+	height: 600px;
+	border: 2px solid yellow;
+	margin-left: 200px;
+	margin-top: 50px;
+	padding: 30px;
+	background-color: #e1fcff;
+}
+
+
+.moj_omiljeni_div2{
+	width: 500px;
+	height: 300px;
+	border: 2px solid yellow;
+	margin-left: 300px;
+	padding: 30px;
+	background-color: #e1fcff;
+}
+.moj_omiljeni_div img{
+	border: 4px dotted purple;
+	margin-left: 20%;
+	margin-top: 20px;
+}
+
+.moj_omiljeni_div p span{
+	color: blue;
+	font-size: 18px;
+}
+
+#button_links{
+	width: 540px;
+	height: 30px;
+	border: 1px solid red;
+	margin-left: 200px;
+	margin-top: 50px;
+	padding: 10px;
+	background-color: #e1fcff;
+}
+
+#button_links a button {
+	width: 100px;
+	height: 25px;
+	background-color: #1a75ff;
+	border: 2px solid black;
+	border-radius: 25%;
+}
+
+#main_div form input[type = "submit"]{
+	margin-top: 50px;
+}
+
+.prvaTabela{
+	border: 1px solid blue;
+	background-color: #e9f2eb;
+	display: inline;
+	margin-left:20px;
+	float: left;
+	height: 200px;
+}
+
+.slikaAdmin{
+	border: 1px solid #400040;
+	float: left;
+}
+
+.divStolovi{
+	width: 300px;
+	height: 300px;
+	display: inline;
+	float: left;
+	margin-left: 20px;
+}
+
+.divStolovi.table{
+	width: 100px;
+	height: 100px;
+	border: 1px solid blue;
+	background-color: yellow;
+	padding: 20px;
+}
